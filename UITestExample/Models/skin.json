@@ -1,0 +1,42 @@
+[
+	{
+		"id": 7,
+		"name": "쿨(티트리) 모델링 마스크 컵팩",
+		"brandName": "린제이 (LINDSAY)",
+		"priceInfo": "28g / 4,000원",
+		"rank": 1,
+		"adPurchaseId": 0
+	},
+	{
+		"id": 8,
+		"name": "아쿠아 콜라겐 펩타이드 트리플 젤에센스",
+		"brandName": "에스네이처 (S.NATURE)",
+		"priceInfo": "50ml / 43,000원",
+		"rank": 2,
+		"adPurchaseId": 0
+	},
+	{
+		"id": 9,
+		"name": "센시비오 H2O",
+		"brandName": "바이오더마 (BIODERMA)",
+		"priceInfo": "250ml",
+		"rank": 3,
+		"adPurchaseId": 0
+	},
+	{
+		"id": 10,
+		"name": "세라마이드 아토 6.0 탑투토워시",
+		"brandName": "일리윤 (illiyoon)",
+		"priceInfo": "500ml / 14,900원",
+		"rank": 4,
+		"adPurchaseId": 0
+	},
+	{
+		"id": 11,
+		"name": "다이브인 저분자 히알루론산 세럼",
+		"brandName": "토리든 (TORRIDEN)",
+		"priceInfo": "50ml / 22,000원",
+		"rank": 5,
+		"adPurchaseId": 0
+	}
+]

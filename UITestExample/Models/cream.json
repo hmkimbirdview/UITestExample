@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "레티놀 시카 흔적 앰플",
+		"brandName": "이니스프리 (innisfree)",
+		"priceInfo": "30ml / 40,000원",
+		"rank": 0,
+		"adPurchaseId": 11111
+	},
+	{
+		"id": 2,
+		"name": "다이브인 저분자 히알루론산 토너",
+		"brandName": "토리든 (TORRIDEN)",
+		"priceInfo": "300ml / 21,000원",
+		"rank": 1,
+		"adPurchaseId": 0
+	},
+	{
+		"id": 3,
+		"name": "호호바 립 에센스 [오리지날고보습]",
+		"brandName": "시드물 (SIDMOOL)",
+		"priceInfo": "13ml / 3,800원",
+		"rank": 2,
+		"adPurchaseId": 0
+	},
+	{
+		"id": 4,
+		"name": "다이브인 저분자 히알루론산 마스크팩",
+		"brandName": "토리든 (TORRIDEN)",
+		"priceInfo": "27ml*1매 / 3,000원",
+		"rank": 3,
+		"adPurchaseId": 0
+	},
+	{
+		"id": 5,
+		"name": "레티놀 시카 흔적 앰플",
+		"brandName": "이니스프리 (innisfree)",
+		"priceInfo": "30ml / 40,000원",
+		"rank": 4,
+		"adPurchaseId": 0
+	},
+	{
+		"id": 6,
+		"name": "레티놀 시카 흔적 앰플",
+		"brandName": "이니스프리 (innisfree)",
+		"priceInfo": "30ml / 40,000원",
+		"rank": 5,
+		"adPurchaseId": 0
+	}
+]
